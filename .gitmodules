@@ -1,0 +1,3 @@
+[submodule "src/blackjack/usecases"]
+	path = src/blackjack/usecases
+	url = https://github.com/poolsergio123/blackout.git
